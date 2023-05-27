@@ -26,3 +26,4 @@ Not restricted to InfoSec but computer science and "hacker" culture general.
 - https://darknetdiaries.com/episode/
 - https://www.rfc-editor.org/rfc/rfc1.txt
 - https://www.pcjs.org/
+- https://www.youtube.com/@Computerphile/playlists
