@@ -27,3 +27,6 @@ Not restricted to InfoSec but computer science and "hacker" culture general.
 - https://www.rfc-editor.org/rfc/rfc1.txt
 - https://www.pcjs.org/
 - https://www.youtube.com/@Computerphile/playlists
+
+# Origins
+ - https://kb.iu.edu/d/abnd - Origin of the names of multiple Unix commands
