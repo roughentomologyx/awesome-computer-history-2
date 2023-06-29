@@ -30,5 +30,8 @@ Not restricted to InfoSec but computer science and "hacker" culture general.
 - https://medium.com/free-code-camp/a-pre-history-of-slashdot-6403341dabae - On the prehistory of slashdot
 - Https://hacker-archive.org List of hacking resources
 
+# Youtube Channels
+- https://www.youtube.com/@UsagiElectric/videos
+
 # Origins
  - https://kb.iu.edu/d/abnd - Origin of the names of multiple Unix commands
