@@ -29,6 +29,7 @@ Not restricted to InfoSec but computer science and "hacker" culture general.
 - https://www.youtube.com/@Computerphile/playlists
 - https://medium.com/free-code-camp/a-pre-history-of-slashdot-6403341dabae - On the prehistory of slashdot
 - Https://hacker-archive.org List of hacking resources
+- https://www.youtube.com/watch?v=szTtg302Hic
 
 # Youtube Channels
 - https://www.youtube.com/@UsagiElectric/videos
