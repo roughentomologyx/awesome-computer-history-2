@@ -30,6 +30,13 @@ Not restricted to InfoSec but computer science and "hacker" culture general.
 - https://medium.com/free-code-camp/a-pre-history-of-slashdot-6403341dabae - On the prehistory of slashdot
 - Https://hacker-archive.org List of hacking resources
 - https://www.youtube.com/watch?v=szTtg302Hic
+- https://c74project.com/
+- https://eater.net/
+- https://www.youtube.com/watch?v=9hIQjrMHTv4 History of the Internet
+- https://www.youtube.com/watch?v=8sTy8466MoE A Brief History of the Internet - First Website, First Meme..
+- https://overshare.links.net/ first blog
+- https://en.wikipedia.org/wiki/At_sign
+- https://www.youtube.com/watch?v=Cr2zVRg1P30 A Brief History of the Internet, Part 1: Networking The Nerds
 
 # Youtube Channels
 - https://www.youtube.com/@UsagiElectric/videos
