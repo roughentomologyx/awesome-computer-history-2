@@ -54,5 +54,5 @@ Not restricted to InfoSec but computer science and "hacker" culture general.
 - https://kb.iu.edu/d/abnd - Origin of the names of multiple Unix commands
 
 # usenet
-- https://www.youtube.com/watch?v=jNme5DlNaZY
+- https://www.youtube.com/watch?v=jNme5DlNaZY Life On The Internet: Networking (1996 Usenet Documentary)
 - https://www.youtube.com/watch?v=6qFAGE8d55k What Happened To Usenet? (A Short Documentary)
