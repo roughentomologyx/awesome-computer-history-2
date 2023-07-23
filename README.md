@@ -41,5 +41,8 @@ Not restricted to InfoSec but computer science and "hacker" culture general.
 # Youtube Channels
 - https://www.youtube.com/@UsagiElectric/videos
 
+# Podcasts
+- https://www.internethistorypodcast.com/
+
 # Origins
  - https://kb.iu.edu/d/abnd - Origin of the names of multiple Unix commands
