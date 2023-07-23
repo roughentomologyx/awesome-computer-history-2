@@ -36,7 +36,6 @@ Not restricted to InfoSec but computer science and "hacker" culture general.
 - https://overshare.links.net/ first blog
 - https://en.wikipedia.org/wiki/At_sign
 - https://www.youtube.com/watch?v=Cr2zVRg1P30 A Brief History of the Internet, Part 1: Networking The Nerds
-- https://www.youtube.com/watch?v=6qFAGE8d55k What Happened To Usenet? (A Short Documentary)
 
 
 # Youtube Channels
@@ -52,4 +51,8 @@ Not restricted to InfoSec but computer science and "hacker" culture general.
 - https://www.internethistorypodcast.com/
 
 # Origins
- - https://kb.iu.edu/d/abnd - Origin of the names of multiple Unix commands
+- https://kb.iu.edu/d/abnd - Origin of the names of multiple Unix commands
+
+# usenet
+- https://www.youtube.com/watch?v=jNme5DlNaZY
+- https://www.youtube.com/watch?v=6qFAGE8d55k What Happened To Usenet? (A Short Documentary)
