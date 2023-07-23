@@ -43,7 +43,7 @@ Not restricted to InfoSec but computer science and "hacker" culture general.
 - https://www.youtube.com/@UsagiElectric/videos
 
 # 6502
-- http://www.6502.org/tools/emu/
+- http://www.6502.org/
 - https://c74project.com/
 - https://eater.net/
 - https://www.youtube.com/watch?v=fWqBmmPQP40 27c3: Reverse Engineering the MOS 6502 CPU (en)
