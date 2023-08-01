@@ -36,6 +36,7 @@ Not restricted to InfoSec but computer science and "hacker" culture general.
 - https://overshare.links.net/ first blog
 - https://en.wikipedia.org/wiki/At_sign
 - https://www.youtube.com/watch?v=Cr2zVRg1P30 A Brief History of the Internet, Part 1: Networking The Nerds
+- https://www.youtube.com/watch?v=YU-t0f71cFs Codd and the mathematical model that turned into a multi-billion dollar industry
 
 
 # Youtube Channels
