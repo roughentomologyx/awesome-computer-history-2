@@ -38,7 +38,8 @@ Not restricted to InfoSec but computer science and "hacker" culture general.
 - https://www.youtube.com/watch?v=Cr2zVRg1P30 A Brief History of the Internet, Part 1: Networking The Nerds
 - https://www.youtube.com/watch?v=YU-t0f71cFs Codd and the mathematical model that turned into a multi-billion dollar industry
 
-
+# Blogs
+- https://www.folklore.org/ Anecdotes about the development of the original Macintosh
 # Youtube Channels
 - https://www.youtube.com/@UsagiElectric/videos
 
