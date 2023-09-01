@@ -49,6 +49,9 @@ Not restricted to InfoSec but computer science and "hacker" culture general.
 - https://eater.net/
 - https://www.youtube.com/watch?v=fWqBmmPQP40 27c3: Reverse Engineering the MOS 6502 CPU (en)
 
+# Apple
+- https://www.folklore.org/
+
 # Podcasts
 - https://www.internethistorypodcast.com/
 
