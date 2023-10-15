@@ -1,5 +1,5 @@
 # awesome-computer-history-2
-This is a continuation of https://github.com/watson/awesome-computer-history and his forks that have seen no activity for years. We are trying to only include stuff that is not included there already
+This is a continuation of https://github.com/watson/awesome-computer-history and his forks that have seen no activity for years. We are trying to only include stuff that is not included there already. If you like or dislike feel free to contribute.
 
 # awesomes
 - [awesome computer history 1](https://github.com/watson/awesome-computer-history) 
@@ -60,6 +60,17 @@ Not restricted to InfoSec but computer science and "hacker" culture general.
 
 # Atari
 - http://www.atari-museum.de/atari/
+
+
+
+# Amiga
+- https://www.youtube.com/watch?v=ws3DJF7MbMU
+- https://www.youtube.com/watch?v=pssH6moTGLc
+
+  
+# Robotron
+- https://www.robotrontechnik.de/index.htm?/html/computer/kc_riesa.htm
+- http://www.z1013.de/
 
 # usenet
 - https://www.youtube.com/watch?v=jNme5DlNaZY Life On The Internet: Networking (1996 Usenet Documentary)
