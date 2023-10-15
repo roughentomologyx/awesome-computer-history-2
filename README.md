@@ -4,10 +4,44 @@ This is a continuation of https://github.com/watson/awesome-computer-history and
 # awesomes
 - [awesome computer history 1](https://github.com/watson/awesome-computer-history) 
 
+# Youtube Channels
+- https://www.youtube.com/@UsagiElectric/videos
+  
 
-todo:
-## Documentaries & Historical
-Not restricted to InfoSec but computer science and "hacker" culture general. 
+# 6502
+- http://www.6502.org/
+- https://c74project.com/
+- https://eater.net/
+- https://www.youtube.com/watch?v=fWqBmmPQP40 27c3: Reverse Engineering the MOS 6502 CPU (en)
+
+# Apple
+- https://www.folklore.org/
+
+# Podcasts
+- https://www.internethistorypodcast.com/
+
+# Origins
+- https://kb.iu.edu/d/abnd - Origin of the names of multiple Unix commands
+
+# Atari
+- http://www.atari-museum.de/atari/
+
+
+# Amiga
+- https://www.youtube.com/watch?v=ws3DJF7MbMU
+- https://www.youtube.com/watch?v=pssH6moTGLc
+
+  
+# Robotron
+- https://www.robotrontechnik.de/index.htm?/html/computer/kc_riesa.htm
+- http://www.z1013.de/
+
+# usenet
+- https://www.youtube.com/watch?v=jNme5DlNaZY Life On The Internet: Networking (1996 Usenet Documentary)
+- https://www.youtube.com/watch?v=6qFAGE8d55k What Happened To Usenet? (A Short Documentary)
+
+to categorize:
+
 - https://www.dailymotion.com/video/x1btavd Fermat's Last Theorem
 - https://www.youtube.com/watch?v=ihkRwArnc1k Birth of The Transistor: A video history of Japan's electronic industry
 - https://www.youtube.com/watch?v=6qD9XElTpCE The Story of Shor's Algorithm, Straight From the Source | Peter Shor
@@ -38,40 +72,6 @@ Not restricted to InfoSec but computer science and "hacker" culture general.
 - https://www.youtube.com/watch?v=Cr2zVRg1P30 A Brief History of the Internet, Part 1: Networking The Nerds
 - https://www.youtube.com/watch?v=YU-t0f71cFs Codd and the mathematical model that turned into a multi-billion dollar industry
 
-# Blogs
-- https://www.folklore.org/ Anecdotes about the development of the original Macintosh
-# Youtube Channels
-- https://www.youtube.com/@UsagiElectric/videos
-
-# 6502
-- http://www.6502.org/
-- https://c74project.com/
-- https://eater.net/
-- https://www.youtube.com/watch?v=fWqBmmPQP40 27c3: Reverse Engineering the MOS 6502 CPU (en)
-
-# Apple
-- https://www.folklore.org/
-
-# Podcasts
-- https://www.internethistorypodcast.com/
-
-# Origins
-- https://kb.iu.edu/d/abnd - Origin of the names of multiple Unix commands
-
-# Atari
-- http://www.atari-museum.de/atari/
 
 
 
-# Amiga
-- https://www.youtube.com/watch?v=ws3DJF7MbMU
-- https://www.youtube.com/watch?v=pssH6moTGLc
-
-  
-# Robotron
-- https://www.robotrontechnik.de/index.htm?/html/computer/kc_riesa.htm
-- http://www.z1013.de/
-
-# usenet
-- https://www.youtube.com/watch?v=jNme5DlNaZY Life On The Internet: Networking (1996 Usenet Documentary)
-- https://www.youtube.com/watch?v=6qFAGE8d55k What Happened To Usenet? (A Short Documentary)
