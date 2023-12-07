@@ -40,7 +40,7 @@ This is a continuation of https://github.com/watson/awesome-computer-history and
 - https://www.youtube.com/watch?v=jNme5DlNaZY Life On The Internet: Networking (1996 Usenet Documentary)
 - https://www.youtube.com/watch?v=6qFAGE8d55k What Happened To Usenet? (A Short Documentary)
 
-to categorize:
+# to categorize:
 
 - https://www.dailymotion.com/video/x1btavd Fermat's Last Theorem
 - https://www.youtube.com/watch?v=ihkRwArnc1k Birth of The Transistor: A video history of Japan's electronic industry
