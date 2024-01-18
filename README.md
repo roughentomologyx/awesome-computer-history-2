@@ -64,6 +64,8 @@ This is a continuation of https://github.com/watson/awesome-computer-history and
 - https://medium.com/free-code-camp/a-pre-history-of-slashdot-6403341dabae - On the prehistory of slashdot
 - Https://hacker-archive.org List of hacking resources
 - https://www.youtube.com/watch?v=szTtg302Hic
+- https://www.youtube.com/watch?v=YpruA5mC7wg The World's First Microprocessor: F-14 Central Air Data Computer
+
 
 - https://www.youtube.com/watch?v=9hIQjrMHTv4 History of the Internet
 - https://www.youtube.com/watch?v=8sTy8466MoE A Brief History of the Internet - First Website, First Meme..
