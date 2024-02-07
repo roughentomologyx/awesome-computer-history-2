@@ -13,6 +13,7 @@ This is a continuation of https://github.com/watson/awesome-computer-history and
 - http://www.6502.org/
 - https://c74project.com/
 - https://eater.net/
+- https://www.youtube.com/watch?v=lP2ZBp9O0mk
 - https://www.youtube.com/watch?v=fWqBmmPQP40 27c3: Reverse Engineering the MOS 6502 CPU (en)
 
 # Apple
