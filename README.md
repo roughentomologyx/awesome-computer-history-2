@@ -6,6 +6,7 @@ This is a continuation of https://github.com/watson/awesome-computer-history and
 
 # Youtube Channels
 - https://www.youtube.com/@UsagiElectric/videos
+- https://www.youtube.com/@RetroBytesUK
   
 
 # 6502
