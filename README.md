@@ -32,8 +32,10 @@ This is a continuation of https://github.com/watson/awesome-computer-history and
 # Amiga
 - https://www.youtube.com/watch?v=ws3DJF7MbMU
 - https://www.youtube.com/watch?v=pssH6moTGLc
-
   
+# Mechanical Computers
+- https://lcamtuf.substack.com/p/a-brief-history-of-counting-stuff
+    
 # Robotron
 - https://www.robotrontechnik.de/index.htm?/html/computer/kc_riesa.htm
 - http://www.z1013.de/
